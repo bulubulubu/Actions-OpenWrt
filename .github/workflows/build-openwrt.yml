@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt - immortalwrt - SuLingGG - master
+name: Build OpenWrt - immortalwrt - SuLingGG - openwrt-18.06
 
 on:
   repository_dispatch:
